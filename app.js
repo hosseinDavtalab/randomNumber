@@ -31,11 +31,11 @@ function correctHandeler() {
 }
 
 function biggerHandeler() {
-    text.textContent = 'your number is bigger';
+    text.textContent = 'Oh, your number is smaller';
 
 }
 function smallerHandeler() {
-    text.textContent = 'your number is smaller';
+    text.textContent = 'ops, your number is smaller';
 
 }
 
