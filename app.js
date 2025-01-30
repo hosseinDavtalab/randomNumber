@@ -39,4 +39,8 @@ function smallerHandeler() {
 
 }
 
+function randomLog(number) {
+    console.log(number);
+}
+
 
